@@ -15,10 +15,10 @@ Forgeron de mon avenir 💪 | Développeur web en formation 💻 | Basé à Kins
 
 ### 👨‍💻 À propos de moi
 
-- 🔭 Développeur web passionné
-- 📚 En apprentissage constant : HTML, CSS, JavaScript, Python, C, Algorithme (niveau L1)
-- 🧠 Je code aussi en JavaScript (front), Python, et langage C
-- 🌍 Basé à Kinshasa, RDC
+- 🔭 Développeur web passionné  
+- 📚 En apprentissage constant : HTML, CSS, JavaScript, Python, C, Algorithme (niveau L1)  
+- 🧠 Je code aussi en JavaScript (front), Python, et langage C  
+- 🌍 Basé à Kinshasa, RDC  
 - 📫 Contact : **exauceyayama@gmail.com**
 
 ---
@@ -34,16 +34,16 @@ Forgeron de mon avenir 💪 | Développeur web en formation 💻 | Basé à Kins
 
 ### 🧰 Outils & Langages utilisés
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
@@ -53,22 +53,22 @@ Forgeron de mon avenir 💪 | Développeur web en formation 💻 | Basé à Kins
 
   <br/>
 
-  <!-- Statistiques principales -->
-  <img src="https://github-readme-stats.vercel.app/api?username=smithexauceyayama&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" />
+  <!-- Statistiques principales avec rang dynamique -->
+  <img src="https://github-readme-stats.vercel.app/api?username=smithexauceyayama&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=default" width="100%" />
 
   <br/><br/>
 
-  <!-- Streak (jours de contribution consécutifs) -->
+  <!-- Streak (jours consécutifs) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=smithexauceyayama&theme=tokyonight&hide_border=true" width="100%" />
 
   <br/><br/>
 
-  <!-- Détail du profil complet -->
+  <!-- Détail du profil -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smithexauceyayama&theme=tokyonight" width="100%" />
 
   <br/><br/>
 
-  <!-- Langages les plus utilisés -->
+  <!-- Langages principaux -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smithexauceyayama&layout=compact&theme=tokyonight&hide_border=true" width="85%" />
 
   <br/><br/>
@@ -77,6 +77,8 @@ Forgeron de mon avenir 💪 | Développeur web en formation 💻 | Basé à Kins
   <img src="https://komarev.com/ghpvc/?username=smithexauceyayama&style=for-the-badge&color=blue" alt="Profile Views" />
 
 </div>
+
+---
 
 ### 🔗 Me suivre sur les réseaux
 
