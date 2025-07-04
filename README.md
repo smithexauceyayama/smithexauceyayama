@@ -45,28 +45,35 @@ Forgeron de mon avenir 💪 | Développeur web en formation 💻 | Basé à Kins
 
 ---
 
+---
+
 ### 📊 Statistiques GitHub
 
 <div align="center">
 
   <br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=smithexauceyayama&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="90%" />
+  <!-- Statistiques principales -->
+  <img src="https://github-readme-stats.vercel.app/api?username=smithexauceyayama&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" />
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smithexauceyayama&theme=tokyonight&hide_border=true" width="90%" />
+  <!-- Streak (jours de contribution consécutifs) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smithexauceyayama&theme=tokyonight&hide_border=true" width="100%" />
 
   <br/><br/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smithexauceyayama&theme=tokyonight" width="95%" />
+  <!-- Détail du profil complet -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smithexauceyayama&theme=tokyonight" width="100%" />
 
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smithexauceyayama&layout=compact&theme=tokyonight&hide_border=true" width="75%" />
+  <!-- Langages les plus utilisés -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smithexauceyayama&layout=compact&theme=tokyonight&hide_border=true" width="85%" />
 
   <br/><br/>
 
+  <!-- Vues du profil -->
   <img src="https://komarev.com/ghpvc/?username=smithexauceyayama&style=for-the-badge&color=blue" alt="Profile Views" />
 
 </div>
