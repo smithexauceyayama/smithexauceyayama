@@ -16,7 +16,7 @@ Forgeron de mon avenir 💪 | Développeur web en formation 💻 | Basé à Kins
 ### 👨‍💻 À propos de moi
 
 - 🔭 Développeur web passionné  
-- 📚 En apprentissage constant : HTML, CSS, JavaScript, Python, C, Algorithme (niveau L1)  
+- 📚 En apprentissage constant : HTML, CSS, JavaScript, Python, C, Algorithme (niveau L2)  
 - 🧠 Je code aussi en JavaScript (front), Python, et langage C  
 - 🌍 Basé à Kinshasa, RDC  
 - 📫 Contact : **exauceyayama@gmail.com**
