@@ -1,24 +1,31 @@
-<h1 align="center">👋 Salut, moi c’est Exauce Yayama (alias Smith)</h1>
+<h1 align="center">👋 Salut, moi c'est Exauce Yayama (alias Smith)</h1>
 
 <p align="center">
-Forgeron de mon avenir 💪 | Développeur web en formation 💻 | Basé à Kinshasa 🇨🇩
+Forgeron de mon avenir 💪 | Développeur Full-Stack en formation 💻 | Spécialiste Base de Données 🗄️ | Basé à Kinshasa 🇨🇩
 </p>
 
 ---
 
 ### 🔨 Pourquoi "Smith" ?
 
-> "Smith" vient de l’anglais et signifie maréchal-ferrant. Ce métier consiste à forger et à donner forme au métal.  
+> "Smith" vient de l'anglais et signifie maréchal-ferrant. Ce métier consiste à forger et à donner forme au métal.  
 > Moi, je me considère comme un forgeron de ma propre vie — **et surtout du code** : je façonne des lignes comme d'autres martèlent le fer, je donne vie à des idées en tapant sur mon clavier, et je construis mon avenir projet par projet.
 
 ---
 
 ### 👨‍💻 À propos de moi
 
-- 🔭 Développeur web passionné  
-- 📚 En apprentissage constant : HTML, CSS, JavaScript, Python, C, Algorithme (niveau L2)  
-- 🧠 Je code aussi en JavaScript (front), Python, et langage C  
-- 🌍 Basé à Kinshasa, RDC  
+- 🎓 **Étudiant en L2** en Informatique depuis un moment
+- 🔭 **Développeur Full-Stack** en formation  
+- 🗄️ **Spécialiste Base de Données** avec expérience en Merise et SQL
+- 📚 **Compétences techniques avancées** :
+  - **Conception** : Méthode Merise, Modélisation de bases de données
+  - **Langages** : Java, PHP, SQL, JavaScript, Python, C
+  - **Algorithmique** : Niveau 2 maîtrisé
+  - **Bases de données** : MySQL (expert)
+  - **Outils** : XAMPP, MySQL Workbench, Git, GitHub
+  - **SGBD** : MySQL (expérience pratique)
+- 🌍 Basé à Kinshasa, RDC
 - 📫 Contact : **exauceyayama@gmail.com**
 
 ---
@@ -29,21 +36,38 @@ Forgeron de mon avenir 💪 | Développeur web en formation 💻 | Basé à Kins
 
 - 🎨 [Mon Portfolio](https://smithexauceyayama.github.io/PORTFOLIO/)
 - 📰 [UPC Magazine](https://smithexauceyayama.github.io/projet) – Projet universitaire de publication numérique
+- 🗄️ **Projets Base de Données** : Conception et implémentation de bases relationnelles
+- 💻 **Applications Java** : Développement d'applications avec algorithmique avancée
 
 ---
 
-### 🧰 Outils & Langages utilisés
+### 🧰 Stack Technique Complète
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-</p>
+#### 📐 **Conception & Modélisation**
+![Merise](https://img.shields.io/badge/Merise-MCD/MLD-blue)
+![UML](https://img.shields.io/badge/UML-Diagrammes-orange)
+
+#### 💾 **Bases de Données & SGBD**
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
+![Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge)
+
+#### 💻 **Langages de Programmation**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+#### 🎨 **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🛠️ **Outils & DevOps**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -80,6 +104,21 @@ Forgeron de mon avenir 💪 | Développeur web en formation 💻 | Basé à Kins
 
 ---
 
+### 📈 Progression Académique & Professionnelle
+
+#### **Niveau Actuel** : L2 en Informatique
+#### **Compétences Acquises** :
+- ✅ **Merise** - Maîtrise des concepts MCD, MLD, MPD
+- ✅ **Bases de Données** - Conception et implémentation
+- ✅ **SQL Avancé** - Requêtes complexes, optimisation
+- ✅ **Java & Algorithmique 2** - Structures de données avancées
+- ✅ **Environnement Professionnel** : XAMPP, Workbench, Git/GitHub
+- ✅ **PHP** - Développement back-end
+
+#### **Prochain Objectif** : Développement d'applications web complètes avec stack LAMP (Linux, Apache, MySQL, PHP)
+
+---
+
 ### 🔗 Me suivre sur les réseaux
 
 <p align="center">
@@ -104,8 +143,8 @@ Forgeron de mon avenir 💪 | Développeur web en formation 💻 | Basé à Kins
 
 ### 💬 Citation motivante
 
-> _“Je ne suis peut-être pas encore là où je veux être, mais je suis plus proche qu’hier.”_
+> _"Je ne suis peut-être pas encore là où je veux être, mais chaque ligne de code, chaque base conçue, chaque algorithme maîtrisé me rapproche de mon objectif."_
 
 ---
 
-🙏 Merci d’être passé ! N’hésite pas à visiter mes projets, me suivre, et me contacter 🙌
+🙏 **Merci d'être passé !** N'hésite pas à visiter mes projets, me suivre, et me contacter pour des collaborations sur des projets bases de données ou développement web! 🗄️💻🙌
