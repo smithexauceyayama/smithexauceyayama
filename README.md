@@ -71,34 +71,62 @@ Forgeron de mon avenir 💪 | Développeur Full-Stack en formation 💻 | Spéci
 
 ---
 
-### 📊 Statistiques GitHub
+### 📊 Statistiques GitHub Avancées
 
 <div align="center">
 
-  <br/>
+## 📈 **Tableau de Bord GitHub**
 
-  <!-- Statistiques principales avec rang dynamique -->
-  <img src="https://github-readme-stats.vercel.app/api?username=smithexauceyayama&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=default" width="100%" />
+### 🏆 **Statistiques Principales**
+  
+![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=smithexauceyayama&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=percentile&include_all_commits=true&count_private=true&line_height=24)
 
-  <br/><br/>
+### 🔥 **Streak de Contributions**
+  
+![GitHub Streak](https://streak-stats.demolab.com/?user=smithexauceyayama&theme=tokyonight&hide_border=true&mode=weekly&fire=DD2727&background=0D1117)
 
-  <!-- Streak (jours consécutifs) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=smithexauceyayama&theme=tokyonight&hide_border=true" width="100%" />
+### 💻 **Langages les Plus Utilisés**
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smithexauceyayama&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400&exclude_repo=github-readme-stats)
 
-  <br/><br/>
+### 📊 **Graphique d'Activité**
+  
+![Graphique d'Activité](https://github-readme-activity-graph.vercel.app/graph?username=smithexauceyayama&theme=tokyonight&hide_border=true&area=true&hide_title=false&custom_title=Activit%C3%A9%20GitHub)
 
-  <!-- Détail du profil -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smithexauceyayama&theme=tokyonight" width="100%" />
+### 🏅 **Trophées GitHub**
+  
+![Trophées](https://github-profile-trophy.vercel.app/?username=smithexauceyayama&theme=onedark&no-frame=true&margin-w=15&margin-h=15&column=4&rank=SSS,SS,S,AAA,AA,A,B,C)
 
-  <br/><br/>
+### 📋 **Cartes de Statistiques Détaillées**
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smithexauceyayama&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smithexauceyayama&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=smithexauceyayama&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=smithexauceyayama&theme=tokyonight&utcOffset=1)
 
-  <!-- Langages principaux -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smithexauceyayama&layout=compact&theme=tokyonight&hide_border=true" width="85%" />
+### 🎯 **Métriques de Productivité**
+  
+![Metrics](https://metrics.lecoq.io/smithexauceyayama?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&lines=1&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Africa%2FKinshasa)
 
-  <br/><br/>
+### 🌟 **Statistiques Personnalisées**
+  
+![Github Stats](https://github-readme-stats.vercel.app/api?username=smithexauceyayama&custom_title=Mes%20Statistiques%20GitHub&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&hide_border=true&show_icons=true&count_private=true)
 
-  <!-- Vues du profil -->
-  <img src="https://komarev.com/ghpvc/?username=smithexauceyayama&style=for-the-badge&color=blue" alt="Profile Views" />
+### 📅 **Calendrier des Contributions**
+  
+![Calendrier GitHub](https://ghchart.rshah.org/4169E1/smithexauceyayama)
+
+### 🚀 **Statistiques de Contribution**
+  
+![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=smithexauceyayama&theme=tokyonight)
+
+### ⚡ **Statistiques Instantanées**
+  
+![GitHub Readme Stats](https://github-readme-stats.vercel.app/api/pin/?username=smithexauceyayama&repo=PORTFOLIO&theme=tokyonight)
+
+### 👁️ **Vues du Profil**
+  
+![Profile Views](https://komarev.com/ghpvc/?username=smithexauceyayama&style=for-the-badge&color=blue&label=PROFILE+VIEWS)
 
 </div>
 
@@ -143,7 +171,7 @@ Forgeron de mon avenir 💪 | Développeur Full-Stack en formation 💻 | Spéci
 
 ### 💬 Citation motivante
 
-> _"Je ne suis peut-être pas encore là où je veux être, mais chaque ligne de code, chaque base conçue, chaque algorithme maîtrisé me rapproche de mon objectif."_
+> _"Je ne suis peut-être pas encore là où je veux être, mais je suis plus proche qu'hier."_
 
 ---
 
